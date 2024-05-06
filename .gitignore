@@ -1,0 +1,9 @@
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+bin/
+obj/
+
+# need to run these terminal commands after updating this gitignore file. and don't forget the periods at the end
+#git rm -rf --cached .
+#git add .
